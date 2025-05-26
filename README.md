@@ -2,6 +2,8 @@
 
 ![Wanderlust](https://github.com/user-attachments/assets/1d05c851-1fcc-4e38-a2d6-34bd307fcf6c)
 
+---
+
 ## 📌 Overview
 
 Wanderlust is a cloud-native travel blog web application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and deployed using a full **DevSecOps and GitOps pipeline on AWS**. This project demonstrates real-world implementation of CI/CD, container security, Git-based deployments, infrastructure as code, and monitoring on AWS EKS.
